@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Xinh chao cac ban");
+            Console.WriteLine( " toi ten la le minh anh");
         }
     }
 }
